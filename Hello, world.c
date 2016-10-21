@@ -4,6 +4,6 @@ int main ()
 
 {
 
-	printf ("IRASHAI!!!");
-	
+	printf ("IRASHAI!!!\n\n  ok...");
+
 }
